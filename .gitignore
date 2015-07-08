@@ -1,11 +1,14 @@
 # Eclipse
-.classpath
 .project
+.metadata
+bin/**
+.classpath
 .settings/
 
 # Intellij
 .idea/
 *.iml
+*.ipr
 *.iws
 
 # Mac
@@ -15,6 +18,11 @@
 log/
 target/
 
+# Gradle
+build/
+classes/
+.gradle/
+.gradletasknamecache
+
 # Grails
-build/*
-classes/*
+logs/
