@@ -41,6 +41,7 @@ repositories {
     mavenLocal()
     maven { url "https://repo.grails.org/grails/core" }
     maven { url 'https://github.com/keesun/mvn-repo/raw/master' }
+    maven { url 'https://github.com/niney/mvn-repo/raw/master' }
 }
 
 dependencyManagement {
