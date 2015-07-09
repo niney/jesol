@@ -21,8 +21,6 @@ target/
 # Gradle
 build/
 classes/
-.gradle/
-.gradletasknamecache
 
 # Grails
 logs/
